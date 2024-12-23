@@ -1,0 +1,18 @@
+.box {
+  transition: all 250ms;
+  transform: translateX(0);
+  width: 300px;
+  height: 300px;
+  background-color: grey;
+}
+
+.box-section { 
+    height: 400px;
+}
+
+.animation {
+  transition: all 500ms;
+  transform: translateX(-150%);
+  width: 150px;
+  height: 150px;
+}
